@@ -55,8 +55,8 @@ project-name/
 
 1. **Data Preprocessing** – Cleaning, handling imbalance, feature engineering
 2. **Model Development** – Training multiple ML/DL models
-3. **Evaluation** – Comparing models with metrics (Accuracy, Precision, Recall, F1, AUC)
-4. **Visualization** – Confusion matrices, ROC, PR curves, feature importance
+3. **Evaluation** – Comparing models with metrics (MAE, R-2 Score)
+4. **Visualization** – Data Analysis, R-Score, Correlation Analysis, Bar Chart Comparison
 5. **Inference** – Ready-to-run script for new predictions
 
 ---
