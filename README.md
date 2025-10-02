@@ -1,19 +1,16 @@
-# 🚀 Project Title: *[Your Catchy One-Liner Here]*
-
-A concise, professional tagline (e.g., “Predictive Modeling and Deep Learning Solutions for Real-World Data”).
-
+# 🚀 Project Title: *Car Prices Prediction Using Machine Learning*
 
 ## 📌 Overview
 
-This repository contains a complete **end-to-end [Machine Learning / Deep Learning] project**, covering:
+This repository contains a complete **end-to-end Machine Learning Project**, covering:
 
 * Data preprocessing & feature engineering
-* Model development (traditional ML & deep neural networks)
+* Model development
 * Evaluation & comparison of multiple approaches
 * Visualizations for insights and model interpretability
 * Ready-to-use inference pipeline for predictions
 
-The project is structured to showcase **industry-standard practices** for clients, researchers, and employers.
+The project is structured to showcase **industry-standard practices**.
 
 ---
 
@@ -51,9 +48,7 @@ project-name/
 
 * **Languages**: Python (3.9+)
 * **Libraries (ML)**: scikit-learn, pandas, numpy, matplotlib, seaborn
-* **Libraries (DL)**: TensorFlow / Keras, PyTorch (if used)
 * **Others**: Jupyter Notebook, JSON, Pickle/Joblib
-
 ---
 
 ## 📊 Workflow
@@ -68,11 +63,11 @@ project-name/
 
 ## 📈 Results
 
-| Model               | Accuracy | Precision | Recall | F1 Score | AUC  |
-| ------------------- | -------- | --------- | ------ | -------- | ---- |
-| Random Forest       | 0.91     | 0.89      | 0.90   | 0.89     | 0.93 |
-| XGBoost             | 0.93     | 0.91      | 0.92   | 0.91     | 0.95 |
-| CNN (Deep Learning) | 0.95     | 0.94      | 0.95   | 0.94     | 0.97 |
+| Model               | R-2 | MAE
+| ------------------- | -------- | --------- |
+| Random Forest       | 0.91     | 0.89      | 
+| XGBoost             | 0.93     | 0.91      | 
+| CNN (Deep Learning) | 0.95     | 0.94      | 
 
 📌 *Visual results available in `/results/figures/`*
 
@@ -83,8 +78,8 @@ project-name/
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/azazbutt369/car_price_prediction.git
+cd car_price_prediction
 ```
 
 Install dependencies:
@@ -116,8 +111,8 @@ python src/inference.py --input data/sample.csv
 ## 🔍 Example Prediction
 
 ```bash
-Input  → Patient data / Image sample  
-Output → Predicted class: "Positive" (0.92 probability)
+Input  → Car Information  
+Output → Predicted Price (in USD)
 ```
 
 ---
@@ -139,7 +134,7 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 📬 Contact
 
-👤 **Your Name**
+👤 **Azaz Butt**
 
-* LinkedIn: [linkedin.com/in/yourname](#)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [linkedin.com/in/azaz-ur-rehman-butt](#)
+* Email: [azazbutt369@gmail.com](mailto:your.email@example.com)
