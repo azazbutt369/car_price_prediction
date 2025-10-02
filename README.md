@@ -64,10 +64,9 @@ project-name/
 ## 📈 Results
 
 | Model               | R-2 | MAE
-| ------------------- | -------- | --------- |
-| Random Forest       | 0.91     | 0.89      | 
-| XGBoost             | 0.93     | 0.91      | 
-| CNN (Deep Learning) | 0.95     | 0.94      | 
+| ------------------- | -------- | --------- | 
+| XGBoost             | 0.9991     | 85.5757      | 
+| CNN (Deep Learning) | 0.9996     | 62.2467      | 
 
 📌 *Visual results available in `/results/figures/`*
 
