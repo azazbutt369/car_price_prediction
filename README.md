@@ -66,7 +66,7 @@ project-name/
 | Model               | R-2 | MAE
 | ------------------- | -------- | --------- | 
 | XGBoost             | 0.9991     | 85.5757      | 
-| CNN (Deep Learning) | 0.9996     | 62.2467      | 
+| Light GBM | 0.9996     | 62.2467      | 
 
 📌 *Visual results available in `/results/figures/`*
 
